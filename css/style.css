@@ -1,12 +1,4 @@
-a:link {
-  color: black;
-}
-a:visited {
-  color: rgb(112, 255, 155);
-}
-a:hover {
-  color: rgb(64, 160, 245);
-}
-a:active {
-  color: #0000FF;
+img {
+  height: 100px;
+  width: 130px;
 }
