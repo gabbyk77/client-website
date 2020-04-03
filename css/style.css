@@ -2,3 +2,9 @@ img {
   height: 100px;
   width: 130px;
 }
+body {
+  background-color: rgb(255, 212, 125);
+}
+.form-group {
+  color: rgb(74, 79, 76);
+}
